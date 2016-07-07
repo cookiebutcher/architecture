@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "DataRepository\DataRepository.csproj", "{92DF834A-5FF1-485B-9DA5-740F777AE81E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository.Interfaces", "DataRepository.Interfaces\DataRepository.Interfaces.csproj", "{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{92DF834A-5FF1-485B-9DA5-740F777AE81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92DF834A-5FF1-485B-9DA5-740F777AE81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92DF834A-5FF1-485B-9DA5-740F777AE81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
