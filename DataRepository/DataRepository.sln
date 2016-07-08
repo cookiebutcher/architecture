@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository", "DataRepos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRepository.Interfaces", "DataRepository.Interfaces\DataRepository.Interfaces.csproj", "{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{5674B5DB-2EB0-464A-9DCC-DE558118D64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryUsage", "RepositoryUsage\RepositoryUsage.csproj", "{4FB26040-D189-48FF-BBD3-9A810F6F0A15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57EBF785-2D7E-4A6F-A16D-2B061C2A62BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5674B5DB-2EB0-464A-9DCC-DE558118D64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5674B5DB-2EB0-464A-9DCC-DE558118D64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5674B5DB-2EB0-464A-9DCC-DE558118D64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5674B5DB-2EB0-464A-9DCC-DE558118D64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB26040-D189-48FF-BBD3-9A810F6F0A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB26040-D189-48FF-BBD3-9A810F6F0A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB26040-D189-48FF-BBD3-9A810F6F0A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB26040-D189-48FF-BBD3-9A810F6F0A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
